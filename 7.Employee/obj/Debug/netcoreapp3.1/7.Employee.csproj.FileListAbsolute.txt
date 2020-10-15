@@ -1,0 +1,11 @@
+G:\Github\Lab2\7.Employee\bin\Debug\netcoreapp3.1\7.Employee.exe
+G:\Github\Lab2\7.Employee\bin\Debug\netcoreapp3.1\7.Employee.deps.json
+G:\Github\Lab2\7.Employee\bin\Debug\netcoreapp3.1\7.Employee.runtimeconfig.json
+G:\Github\Lab2\7.Employee\bin\Debug\netcoreapp3.1\7.Employee.runtimeconfig.dev.json
+G:\Github\Lab2\7.Employee\bin\Debug\netcoreapp3.1\7.Employee.dll
+G:\Github\Lab2\7.Employee\bin\Debug\netcoreapp3.1\7.Employee.pdb
+G:\Github\Lab2\7.Employee\obj\Debug\netcoreapp3.1\7.Employee.csprojAssemblyReference.cache
+G:\Github\Lab2\7.Employee\obj\Debug\netcoreapp3.1\7.Employee.AssemblyInfoInputs.cache
+G:\Github\Lab2\7.Employee\obj\Debug\netcoreapp3.1\7.Employee.AssemblyInfo.cs
+G:\Github\Lab2\7.Employee\obj\Debug\netcoreapp3.1\7.Employee.dll
+G:\Github\Lab2\7.Employee\obj\Debug\netcoreapp3.1\7.Employee.pdb

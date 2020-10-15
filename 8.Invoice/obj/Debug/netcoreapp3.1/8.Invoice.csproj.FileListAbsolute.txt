@@ -1,0 +1,11 @@
+G:\Github\Lab2\8.Invoice\bin\Debug\netcoreapp3.1\8.Invoice.exe
+G:\Github\Lab2\8.Invoice\bin\Debug\netcoreapp3.1\8.Invoice.deps.json
+G:\Github\Lab2\8.Invoice\bin\Debug\netcoreapp3.1\8.Invoice.runtimeconfig.json
+G:\Github\Lab2\8.Invoice\bin\Debug\netcoreapp3.1\8.Invoice.runtimeconfig.dev.json
+G:\Github\Lab2\8.Invoice\bin\Debug\netcoreapp3.1\8.Invoice.dll
+G:\Github\Lab2\8.Invoice\bin\Debug\netcoreapp3.1\8.Invoice.pdb
+G:\Github\Lab2\8.Invoice\obj\Debug\netcoreapp3.1\8.Invoice.csprojAssemblyReference.cache
+G:\Github\Lab2\8.Invoice\obj\Debug\netcoreapp3.1\8.Invoice.AssemblyInfoInputs.cache
+G:\Github\Lab2\8.Invoice\obj\Debug\netcoreapp3.1\8.Invoice.AssemblyInfo.cs
+G:\Github\Lab2\8.Invoice\obj\Debug\netcoreapp3.1\8.Invoice.dll
+G:\Github\Lab2\8.Invoice\obj\Debug\netcoreapp3.1\8.Invoice.pdb

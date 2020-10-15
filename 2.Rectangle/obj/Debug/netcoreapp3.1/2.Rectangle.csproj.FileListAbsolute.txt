@@ -1,0 +1,10 @@
+G:\Github\Lab2\2.Rectangle\bin\Debug\netcoreapp3.1\2.Rectangle.exe
+G:\Github\Lab2\2.Rectangle\bin\Debug\netcoreapp3.1\2.Rectangle.deps.json
+G:\Github\Lab2\2.Rectangle\bin\Debug\netcoreapp3.1\2.Rectangle.runtimeconfig.json
+G:\Github\Lab2\2.Rectangle\bin\Debug\netcoreapp3.1\2.Rectangle.runtimeconfig.dev.json
+G:\Github\Lab2\2.Rectangle\bin\Debug\netcoreapp3.1\2.Rectangle.dll
+G:\Github\Lab2\2.Rectangle\bin\Debug\netcoreapp3.1\2.Rectangle.pdb
+G:\Github\Lab2\2.Rectangle\obj\Debug\netcoreapp3.1\2.Rectangle.AssemblyInfoInputs.cache
+G:\Github\Lab2\2.Rectangle\obj\Debug\netcoreapp3.1\2.Rectangle.AssemblyInfo.cs
+G:\Github\Lab2\2.Rectangle\obj\Debug\netcoreapp3.1\2.Rectangle.dll
+G:\Github\Lab2\2.Rectangle\obj\Debug\netcoreapp3.1\2.Rectangle.pdb

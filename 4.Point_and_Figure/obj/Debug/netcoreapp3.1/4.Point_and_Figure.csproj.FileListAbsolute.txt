@@ -1,0 +1,11 @@
+G:\Github\Lab2\4.Point_and_Figure\bin\Debug\netcoreapp3.1\4.Point_and_Figure.exe
+G:\Github\Lab2\4.Point_and_Figure\bin\Debug\netcoreapp3.1\4.Point_and_Figure.deps.json
+G:\Github\Lab2\4.Point_and_Figure\bin\Debug\netcoreapp3.1\4.Point_and_Figure.runtimeconfig.json
+G:\Github\Lab2\4.Point_and_Figure\bin\Debug\netcoreapp3.1\4.Point_and_Figure.runtimeconfig.dev.json
+G:\Github\Lab2\4.Point_and_Figure\bin\Debug\netcoreapp3.1\4.Point_and_Figure.dll
+G:\Github\Lab2\4.Point_and_Figure\bin\Debug\netcoreapp3.1\4.Point_and_Figure.pdb
+G:\Github\Lab2\4.Point_and_Figure\obj\Debug\netcoreapp3.1\4.Point_and_Figure.csprojAssemblyReference.cache
+G:\Github\Lab2\4.Point_and_Figure\obj\Debug\netcoreapp3.1\4.Point_and_Figure.AssemblyInfoInputs.cache
+G:\Github\Lab2\4.Point_and_Figure\obj\Debug\netcoreapp3.1\4.Point_and_Figure.AssemblyInfo.cs
+G:\Github\Lab2\4.Point_and_Figure\obj\Debug\netcoreapp3.1\4.Point_and_Figure.dll
+G:\Github\Lab2\4.Point_and_Figure\obj\Debug\netcoreapp3.1\4.Point_and_Figure.pdb

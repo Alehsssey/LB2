@@ -1,0 +1,10 @@
+G:\Github\Lab2\1.Adress\bin\Debug\netcoreapp3.1\1.Adress.exe
+G:\Github\Lab2\1.Adress\bin\Debug\netcoreapp3.1\1.Adress.deps.json
+G:\Github\Lab2\1.Adress\bin\Debug\netcoreapp3.1\1.Adress.runtimeconfig.json
+G:\Github\Lab2\1.Adress\bin\Debug\netcoreapp3.1\1.Adress.runtimeconfig.dev.json
+G:\Github\Lab2\1.Adress\bin\Debug\netcoreapp3.1\1.Adress.dll
+G:\Github\Lab2\1.Adress\bin\Debug\netcoreapp3.1\1.Adress.pdb
+G:\Github\Lab2\1.Adress\obj\Debug\netcoreapp3.1\1.Adress.AssemblyInfoInputs.cache
+G:\Github\Lab2\1.Adress\obj\Debug\netcoreapp3.1\1.Adress.AssemblyInfo.cs
+G:\Github\Lab2\1.Adress\obj\Debug\netcoreapp3.1\1.Adress.dll
+G:\Github\Lab2\1.Adress\obj\Debug\netcoreapp3.1\1.Adress.pdb

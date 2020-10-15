@@ -1,0 +1,11 @@
+G:\Github\Lab2\3.Book\bin\Debug\netcoreapp3.1\3.Book.exe
+G:\Github\Lab2\3.Book\bin\Debug\netcoreapp3.1\3.Book.deps.json
+G:\Github\Lab2\3.Book\bin\Debug\netcoreapp3.1\3.Book.runtimeconfig.json
+G:\Github\Lab2\3.Book\bin\Debug\netcoreapp3.1\3.Book.runtimeconfig.dev.json
+G:\Github\Lab2\3.Book\bin\Debug\netcoreapp3.1\3.Book.dll
+G:\Github\Lab2\3.Book\bin\Debug\netcoreapp3.1\3.Book.pdb
+G:\Github\Lab2\3.Book\obj\Debug\netcoreapp3.1\3.Book.csprojAssemblyReference.cache
+G:\Github\Lab2\3.Book\obj\Debug\netcoreapp3.1\3.Book.AssemblyInfoInputs.cache
+G:\Github\Lab2\3.Book\obj\Debug\netcoreapp3.1\3.Book.AssemblyInfo.cs
+G:\Github\Lab2\3.Book\obj\Debug\netcoreapp3.1\3.Book.dll
+G:\Github\Lab2\3.Book\obj\Debug\netcoreapp3.1\3.Book.pdb

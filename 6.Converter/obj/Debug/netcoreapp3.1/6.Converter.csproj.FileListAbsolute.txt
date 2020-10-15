@@ -1,0 +1,11 @@
+G:\Github\Lab2\6.Converter\bin\Debug\netcoreapp3.1\6.Converter.exe
+G:\Github\Lab2\6.Converter\bin\Debug\netcoreapp3.1\6.Converter.deps.json
+G:\Github\Lab2\6.Converter\bin\Debug\netcoreapp3.1\6.Converter.runtimeconfig.json
+G:\Github\Lab2\6.Converter\bin\Debug\netcoreapp3.1\6.Converter.runtimeconfig.dev.json
+G:\Github\Lab2\6.Converter\bin\Debug\netcoreapp3.1\6.Converter.dll
+G:\Github\Lab2\6.Converter\bin\Debug\netcoreapp3.1\6.Converter.pdb
+G:\Github\Lab2\6.Converter\obj\Debug\netcoreapp3.1\6.Converter.AssemblyInfoInputs.cache
+G:\Github\Lab2\6.Converter\obj\Debug\netcoreapp3.1\6.Converter.AssemblyInfo.cs
+G:\Github\Lab2\6.Converter\obj\Debug\netcoreapp3.1\6.Converter.dll
+G:\Github\Lab2\6.Converter\obj\Debug\netcoreapp3.1\6.Converter.pdb
+G:\Github\Lab2\6.Converter\obj\Debug\netcoreapp3.1\6.Converter.csprojAssemblyReference.cache
